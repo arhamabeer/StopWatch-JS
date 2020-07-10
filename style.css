@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    color: blue;
+}
+div{
+    text-align: center;
+}
+
+h1{
+    margin: 150px 0px 50px 0px;
+}
+
+h2{
+    display: inline-block;
+    width: 100px;
+    font-size: 35px;
+}
+
+button{
+    color: white;
+    background-color: blue;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    border-color: cadetblue;
+}
+
+button:hover{
+    background-color: darkblue;
+    font-size: 15px;
+}
